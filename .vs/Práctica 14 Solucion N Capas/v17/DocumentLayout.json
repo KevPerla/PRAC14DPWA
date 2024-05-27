@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josua\\source\\repos\\Pr\u00E1ctica 14 Solucion N Capas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86D08AB7-16C7-4A83-BEE3-5CDA40F1FBF3}|CapaAccesoDatos\\CapaAccesoDatos.csproj|c:\\users\\josua\\source\\repos\\pr\u00E1ctica 14 solucion n capas\\capaaccesodatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D08AB7-16C7-4A83-BEE3-5CDA40F1FBF3}|CapaAccesoDatos\\CapaAccesoDatos.csproj|solutionrelative:capaaccesodatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA34E55-04F3-4FD9-B935-B6040FF33AB6}|CapaLogicaNegocios\\CapaLogicaNegocios.csproj|c:\\users\\josua\\source\\repos\\pr\u00E1ctica 14 solucion n capas\\capalogicanegocios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA34E55-04F3-4FD9-B935-B6040FF33AB6}|CapaLogicaNegocios\\CapaLogicaNegocios.csproj|solutionrelative:capalogicanegocios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\josua\\source\\repos\\Pr\u00E1ctica 14 Solucion N Capas\\CapaAccesoDatos\\Class1.cs",
+              "RelativeDocumentMoniker": "CapaAccesoDatos\\Class1.cs",
+              "ToolTip": "C:\\Users\\josua\\source\\repos\\Pr\u00E1ctica 14 Solucion N Capas\\CapaAccesoDatos\\Class1.cs",
+              "RelativeToolTip": "CapaAccesoDatos\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T01:14:37.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\josua\\source\\repos\\Pr\u00E1ctica 14 Solucion N Capas\\CapaLogicaNegocios\\Class1.cs",
+              "RelativeDocumentMoniker": "CapaLogicaNegocios\\Class1.cs",
+              "ToolTip": "C:\\Users\\josua\\source\\repos\\Pr\u00E1ctica 14 Solucion N Capas\\CapaLogicaNegocios\\Class1.cs",
+              "RelativeToolTip": "CapaLogicaNegocios\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T01:14:12.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
